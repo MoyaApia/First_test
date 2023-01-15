@@ -1,0 +1,12 @@
+# résumer : 
+installer git et configurer :
+1. installation : telecharger sur www.git.comm et installer
+2. configurer : git config --global user.name "non d'utilisateur"
+                git config --global user.email addresse@gmail.com
+créer un depot git dans le dossier du projet : git init 
+indexer les modifications : git add noms des fichiers/ git add .
+faire un commit : git commit -m"commentaire"
+voir les modification dans index : git status
+voir différence dans les modifications : git diff
+
+adresse du depôt : https://github.com/username/depotname.git
